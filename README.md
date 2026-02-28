@@ -1,4 +1,4 @@
-# Working with React and Vite
+# Working with React and Vite.
 
 Extended a little beyond the lesson challenge.
 Scrimba's intro course to React.
